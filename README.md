@@ -20,3 +20,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasneembanu&show_icons=true&locale=en" alt="dasneembanu" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasneembanu&" alt="dasneembanu" /></p>
+
+## MYPROJECT
+
+Here are some of the projects I have worked on:
+
+### Projects:
+1. [Poster](https://github.com/username/poster) - PC LAB 
+2. [Another Project](https://github.com/username/another-project) - A description of another project
+3. [Third Project](https://github.com/username/third-project) - Details about the third project
+
+Feel free to explore more projects in my repositories section!
