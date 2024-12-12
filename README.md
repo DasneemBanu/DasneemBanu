@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasneembanu&" alt="dasneembanu" /></p>
 
-## MYPROJECT
+## MY PROJECT
 
 Check out my project here!!
 
