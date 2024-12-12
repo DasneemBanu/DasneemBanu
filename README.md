@@ -26,8 +26,8 @@
 Here are some of the projects I have worked on:
 
 ### Projects:
-1. [Poster](https://github.com/username/poster) - PC LAB 
-2. [Another Project](https://github.com/username/another-project) - A description of another project
+1. [PC MAINTENANCE WORKSHOP](https://github.com/DasneemBanu/LAB-PC-ASSEMBLE-/issues/1#issue-2630967456) - PC LAB 
+2. [POSTER INDUSTRIAL TALK](https://github.com/username/another-project) - CLARITY TECHTALK
 3. [Third Project](https://github.com/username/third-project) - Details about the third project
 
 Feel free to explore more projects in my repositories section!
