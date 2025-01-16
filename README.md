@@ -30,6 +30,6 @@ Check out my project here!!
 ### Projects:
 1. [PC MAINTENANCE WORKSHOP](https://github.com/DasneemBanu/LAB-PC-ASSEMBLE-/issues/1#issue-2630967456) - PC LAB 
 2. [POSTER INDUSTRIAL TALK](https://github.com/DasneemBanu/INDUSTRIAL-TALK-1-CLARITY-TECHTALK-.git) - CLARITY TECHTALK
-3. [upcoming](---) - Details about the third project (upcoming)
+3. [OUR VISIT TO UTM DIGITAL](---) - Details about the third project (upcoming)
 
 Feel free to explore more projects in my repositories section!
