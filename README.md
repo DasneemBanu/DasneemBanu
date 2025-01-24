@@ -14,7 +14,7 @@
 - ⚡ Fun fact : **A beginner in the process of turning coffee to codes - but still wondering how to make it happen!!**
 
 - ### 🛠️ Languages & Tools:
-    ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)
+    ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
 
 - ### 🌍 Connect with me:  
     [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dasneembanu@graduate.utm.my)   
