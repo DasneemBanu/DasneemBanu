@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dasneem Banu</h1>
 <h3 align="center">~A passionate student excited to learn and thrive in tech-driven world!</h3>
+<h3 align="center">~[DO EXPLORE MY PERSONAL E-PORTFOLIO](https://dasneembanu.github.io/DasneemBanuBintiHaja.github.io/)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dasneembanu&label=Profile%20views&color=0e75b6&style=flat" alt="dasneembanu" /> </p>
 
