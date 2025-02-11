@@ -38,24 +38,10 @@
 | [OUR VISIT TO UTM DIGITAL](https://github.com/DasneemBanu/VISIT-TO-UTM-DIGITAL.git) | VIDEO OF OUR VISIT TO THE AMAZING UTM DIGITAL |   | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/-CapCut-000000?logo=tiktok&logoColor=white) |
 | [REPORT FOR INDUSTRIAL TALK 2](https://github.com/DasneemBanu/INDUSTRIAL-TALK-2-REPORT-/blob/main/INDUSTRIAL%20TALK%202%20(ACADEMIC%20REPORT).pdf) | SKILLS IN UNIVERSITY AND INDUSTRY   |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
 | [NEWSLETTER FOR INDUSTRIAL TALK 3](https://github.com/DasneemBanu/INDUSTRIAL-TALK-NEWSLETTER.git) | ABOUT 5G AND WI-FI 6  |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
-| [Portfolio Website](https://github.com/your-username/portfolio-website)     | My personal portfolio showcasing projects and skills. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | | 
-
-
-
-
-
-## MY PROJECT
-
-Check out my project here!!
-
-### Projects:
-1. [PC MAINTENANCE WORKSHOP](https://github.com/DasneemBanu/LAB-PC-ASSEMBLE-/issues/1#issue-2630967456) - PC LAB 
-2. [POSTER INDUSTRIAL TALK](https://github.com/DasneemBanu/INDUSTRIAL-TALK-1-CLARITY-TECHTALK-.git) - CLARITY TECHTALK
-3. [OUR VISIT TO UTM DIGITAL](https://github.com/DasneemBanu/VISIT-TO-UTM-DIGITAL.git) - VIDEO ASSINGMENT
-4. [UPCOMING](---) - ASSINGMENT : REPORT
+| [E-PORTFOLIO WEBSITE](https://dasneembanu.github.io/DasneemBanuBintiHaja.github.io/)     | MY PERSONAL WEBSITE showcasing projects and skills. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | | 
 
     
 STAY TUNE FOR MY FURTHER PROJECTS!!
 
 
-Feel free to explore more projects in my repositories section!
+
