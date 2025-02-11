@@ -39,7 +39,7 @@
 | [REPORT FOR INDUSTRIAL TALK 2](https://github.com/DasneemBanu/INDUSTRIAL-TALK-2-REPORT-/blob/main/INDUSTRIAL%20TALK%202%20(ACADEMIC%20REPORT).pdf) | SKILLS IN UNIVERSITY AND INDUSTRY   |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
 | [NEWSLETTER FOR INDUSTRIAL TALK 3](https://github.com/DasneemBanu/INDUSTRIAL-TALK-NEWSLETTER.git) | ABOUT 5G AND WI-FI 6  |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
 | [Portfolio Website](https://github.com/your-username/portfolio-website)     | My personal portfolio showcasing projects and skills. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | | 
-| [Machine Learning Models](https://github.com/your-username/ml-models)       | Implementations of various ML algorithms in Python. | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?logo=scikit-learn&logoColor=white) |  |
+
 
 
 
