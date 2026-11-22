@@ -1,49 +1,115 @@
-<h1 align="center">Hi 👋, I'm Dasneem Banu</h1>
-<h3 align="center">~A passionate student excited to learn and thrive in tech-driven world!</h3>
-<h3 align="center">~[DO EXPLORE MY PERSONAL E-PORTFOLIO](https://dasneembanu.github.io/DasneemBanuBintiHaja.github.io/)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dasneembanu&label=Profile%20views&color=0e75b6&style=flat" alt="dasneembanu" /> </p>
+<h1 align="center">Dasneem Banu</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dasneembanu&theme=onedark"" alt="dasneembanu" /></a> </p>
+<h3 align="center">
+  <i>Somewhere between biological systems, lines of code, and questions that refuse to remain unanswered.</i>
+</h3>
 
-- 🌱 I’m currently studying **Bachelor Of Computer Science (Bioinformatics)**.
-
-- 🧬 Bioinformatics student and a life long learner excited to delve into the mixture of biological insight with computational skills to discover medical science.
-
-- 💻 A coding newbie learning through C++ and trying to debug coding problems - **And in my life itself**.  
-
-- ⚡ Fun fact : **A beginner in the process of turning coffee to codes - but still wondering how to make it happen!!**
-
-- ### 🛠️ Languages & Tools:
-    ![C++](https://img.shields.io/badge/-C++-00599C?&logo=c%2B%2B&logoColor=white)   ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
-
-- ### 🌍 Connect with me:  
-    [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:dasneembanu@graduate.utm.my)   
-
-- 📩 contact me via my official UTM email : dasneembanu@graduate.utm.my
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <i>Every answer opens another door. I haven't quite found the last one.</i>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dasneembanu&show_icons=true&locale=en&theme=onedark" alt="dasneembanu" /></p>
+<p align="center">
+  <a href="https://dasneembanu.github.io/DasneemBanuBintiHaja.github.io/">
+    <b>Enter my digital corner ↗</b>
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dasneembanu&theme=onedark&" alt="dasneembanu" /></p>
+---
 
-### 🚀 My Projects
+<p align="center">
+  <i>
+    Not an expert. Not yet.<br>
+    Just a student learning to make sense of things<br>
+    that were never simple to begin with.
+  </i>
+</p>
 
-| Project Name                                                                 | Description                                | Tech Stack         | Creative Toolkit       |  
-|------------------------------------------------------------------------------|--------------------------------------------|--------------------|------------------------|
-| [PC MAINTENANCE WORKSHOP](https://github.com/DasneemBanu/LAB-PC-ASSEMBLE-/issues/1#issue-2630967456) | PC ASSEMBLE LAB. |  | | 
-| [POSTER FOR INDUSTRIAL TALK 1](https://github.com/DasneemBanu/INDUSTRIAL-TALK-1-CLARITY-TECHTALK-.git) | CLARITY TECHTALK |   | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) |
-| [OUR VISIT TO UTM DIGITAL](https://github.com/DasneemBanu/VISIT-TO-UTM-DIGITAL.git) | VIDEO OF OUR VISIT TO THE AMAZING UTM DIGITAL |   | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![CapCut](https://img.shields.io/badge/-CapCut-000000?logo=tiktok&logoColor=white) |
-| [REPORT FOR INDUSTRIAL TALK 2](https://github.com/DasneemBanu/INDUSTRIAL-TALK-2-REPORT-/blob/main/INDUSTRIAL%20TALK%202%20(ACADEMIC%20REPORT).pdf) | SKILLS IN UNIVERSITY AND INDUSTRY   |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
-| [NEWSLETTER FOR INDUSTRIAL TALK 3](https://github.com/DasneemBanu/INDUSTRIAL-TALK-NEWSLETTER.git) | ABOUT 5G AND WI-FI 6  |  | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white)|
-| [PROJECT DESIGN THINKING](https://github.com/DasneemBanu/PROJECT-DESIGN-THINKING-.git) | DESIGN THINKING |   | ![Canva](https://img.shields.io/badge/-Canva-00C4CC?logo=canva&logoColor=white) ![Google Docs](https://img.shields.io/badge/Google%20Docs-Blue?logo=google-docs&logoColor=white&style=for-the-badge) |
-| [E-PORTFOLIO WEBSITE (COURSE : TECHNOLOGY INFORMATION SYSTEM)](https://dasneembanu.github.io/DasneemBanuBintiHaja.github.io/)     | MY PERSONAL WEBSITE showcasing projects and skills. | ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) | | 
+### 🧬 A little about the mind behind the code
 
-    
-STAY TUNE FOR MY FURTHER PROJECTS!!
+- 🎓 Currently pursuing a **Bachelor of Computer Science (Bioinformatics)**.
+- 🧬 Fascinated by the intersection of biology, computation and the questions that medical science leaves us with.
+- 💻 Learning to write code, analyse data, make mistakes, debug them, and occasionally question my own existence in the process.
+- 🌱 Currently exploring programming, data analysis and the foundations of machine learning — one concept, one experiment and one questionable bug at a time.
 
+> *Biological systems are intricate. Human minds are even more so.*
+>
+> *Perhaps that is why I find myself drawn to the things we have yet to understand.*
 
+---
 
+### ⌘ What you'll find here
+
+Not a catalogue of accomplishments. Not a claim of mastery.
+
+Just fragments of a learning process — projects, experiments, coursework, ideas and the occasional attempt to make something meaningful out of what I know so far.
+
+Some repositories may be polished. Others may still carry the fingerprints of a beginner.
+
+Both are part of the story.
+
+**Feel free to wander through my repositories. You might find something interesting.**
+
+---
+
+### 🛠️ Currently learning & working with
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C%2B%2B-514765?style=flat-square&logo=cplusplus&logoColor=D4D0D8" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-514765?style=flat-square&logo=python&logoColor=D4D0D8" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-514765?style=flat-square&logo=html5&logoColor=D4D0D8" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-514765?style=flat-square&logo=css3&logoColor=D4D0D8" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-514765?style=flat-square&logo=javascript&logoColor=D4D0D8" alt="JavaScript"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Google%20Colab-89909E?style=flat-square&logo=googlecolab&logoColor=252333" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/GitHub-252333?style=flat-square&logo=github&logoColor=D4D0D8" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Canva-89909E?style=flat-square&logo=canva&logoColor=252333" alt="Canva"/>
+</p>
+
+<sub>Learning in progress. Familiarity is not mastery, and I intend to keep it that way until I earn the latter.</sub>
+
+---
+
+### 📊 A few traces of my journey
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DasneemBanu&show_icons=true&theme=onedark&hide_border=true&bg_color=252333&title_color=D4D0D8&text_color=89909E&icon_color=8E7DAA" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DasneemBanu&theme=onedark&hide_border=true&background=252333&ring=8E7DAA&fire=89909E&currStreakLabel=D4D0D8&sideLabels=89909E&dates=89909E" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 🌒 Outside the syntax
+
+I am interested in the hidden patterns — in biological data, in the workings of the human mind, and in the questions that become more interesting the longer you stare at them.
+
+I don't have everything figured out. In fact, I suspect that learning is mostly discovering how much there is left to learn.
+
+But I am here. I am curious. And I am building, slowly.
+
+<p align="center">
+  <i>"The interesting things rarely reveal themselves at first glance."</i>
+</p>
+
+---
+
+### ☕ Let's connect
+
+<p align="left">
+  <a href="mailto:dasneembanu@graduate.utm.my">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-514765?style=flat-square&logo=gmail&logoColor=D4D0D8" alt="Email"/>
+  </a>
+</p>
+
+<sub>University email: dasneembanu@graduate.utm.my</sub>
+
+---
+
+<p align="center">
+  <i>Somewhere between who I am and who I'm becoming, there's a story I refuse to tell — perhaps the truth is buried somewhere between the lines.</i>
+</p>
