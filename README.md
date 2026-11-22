@@ -55,17 +55,17 @@ Both are part of the story.
 ### 🛠️ Currently learning & working with
 
 <p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-514765?style=flat-square&logo=cplusplus&logoColor=D4D0D8" alt="C++"/>
-  <img src="https://img.shields.io/badge/Python-514765?style=flat-square&logo=python&logoColor=D4D0D8" alt="Python"/>
-  <img src="https://img.shields.io/badge/HTML-514765?style=flat-square&logo=html5&logoColor=D4D0D8" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-514765?style=flat-square&logo=css3&logoColor=D4D0D8" alt="CSS"/>
-  <img src="https://img.shields.io/badge/JavaScript-514765?style=flat-square&logo=javascript&logoColor=D4D0D8" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Google%20Colab-89909E?style=flat-square&logo=googlecolab&logoColor=252333" alt="Google Colab"/>
-  <img src="https://img.shields.io/badge/GitHub-252333?style=flat-square&logo=github&logoColor=D4D0D8" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Canva-89909E?style=flat-square&logo=canva&logoColor=252333" alt="Canva"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat-square&logo=googlecolab&logoColor=black" alt="Google Colab"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
 </p>
 
 <sub>Learning in progress. Familiarity is not mastery, and I intend to keep it that way until I earn the latter.</sub>
